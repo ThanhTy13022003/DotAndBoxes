@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\dotandbox\\GameDotsandBoxes\\GameDotsandBoxes\\GameDotsandBoxes.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\dotandbox\\DotAndBoxes\\GameDotsandBoxes\\GameDotsandBoxes\\GameDotsandBoxes.csproj",
       "projectName": "GameDotsandBoxes",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\dotandbox\\GameDotsandBoxes\\GameDotsandBoxes\\GameDotsandBoxes.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\dotandbox\\DotAndBoxes\\GameDotsandBoxes\\GameDotsandBoxes\\GameDotsandBoxes.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\dotandbox\\GameDotsandBoxes\\GameDotsandBoxes\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\dotandbox\\DotAndBoxes\\GameDotsandBoxes\\GameDotsandBoxes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
